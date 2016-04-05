@@ -5,8 +5,8 @@ Based on Chosen library `v1.5.1` [Chosen](http://harvesthq.github.io/chosen/).
 Updated styling to use Bootstrap 3 components.
 Chosen is a library for making long, unwieldy select boxes more user friendly.
 
-* jQuery support: 1.4+
-* Bootstrap: 3+
+* _jQuery_ support: `1.4+`
+* _Bootstrap_: `3+`
 
 For **documentation**, usage, and examples, see:
 http://harvesthq.github.io/chosen/
