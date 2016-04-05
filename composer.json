@@ -1,0 +1,17 @@
+{
+    "name": "pnikolov/bootstrap-chosen",
+    "type": "component",
+    "description": "Chosen lib styled for Bootstrap 3. Based on Chosen library.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Plamen Nikolov",
+            "email": "plamen@athlonsofia.com",
+            "role": "Maintainer"
+        }
+    ],
+    "require": {
+      "components/jquery": ">=1.4.4",
+      "components/bootstrap": ">=3"
+    }
+}

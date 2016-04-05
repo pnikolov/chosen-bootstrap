@@ -1,0 +1,30 @@
+{
+  "name": "pnikolov-bootstrap-chosen",
+  "description": "Bootstrap 3 styled Chosen dist files. Based on Chosen. Chosen is a JavaScript plugin that makes select boxes user-friendly.",
+  "version": "1.0.0",
+  "main": [
+    "js/chosen.jquery.js",
+    "css/chosen.css"
+  ],
+  "ignore": [],
+  "license": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/harvesthq/chosen/blob/master/LICENSE.md"
+    }
+  ],
+  "authors": [
+    {
+      "name": "Plamen Nikolov",
+      "url": "https://github.com/pnikolov"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pnikolov/bootstrap-chosen"
+  },
+  "dependencies": {
+    "jquery": ">=1.4.4",
+    "bootstrap": "3.x"
+  }
+}
