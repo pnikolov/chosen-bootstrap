@@ -1,7 +1,7 @@
 {
   "name": "pnikolov-bootstrap-chosen",
   "description": "Bootstrap 3 styled Chosen dist files. Based on Chosen. Chosen is a JavaScript plugin that makes select boxes user-friendly.",
-  "version": "1.0.0",
+  "version": "1.5.1",
   "main": [
     "js/chosen.jquery.js",
     "css/chosen.css"
